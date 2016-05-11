@@ -6,3 +6,4 @@
 2. NetClient.get()
 3. NetClient.get() -> callback
 4. PeopleManager.notifyXXX
+5. PeopleActivity update ui
